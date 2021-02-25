@@ -7,3 +7,4 @@ Mascotas con estilo - Stylish pets
 Fotos - Photos
 Estas son las fotos del mes - These are the photos of the month
 Principal - Main
+Galeria - Photo gallery

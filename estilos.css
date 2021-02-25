@@ -23,7 +23,7 @@ body{
     background-image: url(patitas.jpg);
 }
 
-li{
+ul{
     color: rgb(236, 16, 53);font-size: 150px; font-family: 'Open Sans', sans-serif;
     font-family: 'Rancho', cursive;
 }
