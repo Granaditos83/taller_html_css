@@ -1,13 +1,32 @@
-p{color:  rgb(241, 19, 193); font-size: 45px; font-family: 'Open Sans', sans-serif;
+p{color:  rgb(236, 16, 53); font-size: 60px; font-family: 'Open Sans', sans-serif;
     font-family: 'Rancho', cursive;}
 
 
 
-h1{color: rgb(241, 19, 193);font-size: 150px; font-family: 'Open Sans', sans-serif;
+h1{color: rgb(236, 16, 53);font-size: 150px; font-family: 'Open Sans', sans-serif;
     font-family: 'Rancho', cursive;}
 
 h2{
-    
+    color: rgb(236, 16, 53);font-size: 150px; font-family: 'Open Sans', sans-serif;
+    font-family: 'Rancho', cursive;
 }
+
+h3{
+    color: rgb(236, 16, 53);font-size: 150px; font-family: 'Open Sans', sans-serif;
+    font-family: 'Rancho', cursive;
+
+}
+
+
+
+body{
+    background-image: url(patitas.jpg);
+}
+
+li{
+    color: rgb(236, 16, 53);font-size: 150px; font-family: 'Open Sans', sans-serif;
+    font-family: 'Rancho', cursive;
+}
+    
     
 
