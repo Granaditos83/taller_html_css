@@ -8,6 +8,7 @@ Fotos - Photos
 Estas son las fotos del mes - These are the photos of the month
 Principal - Main
 Galeria - Photo gallery
+Consejos para el cuidado de tu mascota - Tips for caring for your pet
 Visita regularmente al veterinario - Visit the vet regularly.
 Desparasita con frecuencia a tu mascota - Deworm your pet frequently.
 Proporciónale una alimentación sana - Give him a healthy diet.
