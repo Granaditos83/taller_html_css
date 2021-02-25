@@ -7,12 +7,12 @@ h1{color: rgb(236, 16, 53);font-size: 150px; font-family: 'Open Sans', sans-seri
     font-family: 'Rancho', cursive;}
 
 h2{
-    color: rgb(236, 16, 53);font-size: 150px; font-family: 'Open Sans', sans-serif;
+    color: rgb(3, 3, 3);font-size: 50px; font-family: 'Open Sans', sans-serif;
     font-family: 'Rancho', cursive;
 }
 
 h3{
-    color: rgb(236, 16, 53);font-size: 150px; font-family: 'Open Sans', sans-serif;
+    color: rgb(9, 241, 40);font-size: 50px; font-family: 'Open Sans', sans-serif;
     font-family: 'Rancho', cursive;
 
 }
@@ -24,7 +24,15 @@ body{
 }
 
 ul{
-    color: rgb(236, 16, 53);font-size: 150px; font-family: 'Open Sans', sans-serif;
+    color: rgb(236, 16, 53);font-size: 50px; font-family: 'Open Sans', sans-serif;
+    font-family: 'Rancho', cursive;
+}
+li{
+    color: rgb(236, 16, 53);font-size: 50px; font-family: 'Open Sans', sans-serif;
+    font-family: 'Rancho', cursive;
+}
+a{
+    color: rgb(236, 16, 53);font-size: 50px; font-family: 'Open Sans', sans-serif;
     font-family: 'Rancho', cursive;
 }
     
